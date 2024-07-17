@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 header.p-5.text-center {
-  background-image: url(https://media.gq.com.tw/photos/6166ba1186ee4a48ef2ade82/master/w_1600%2Cc_limit/03.jpg);
+  background-image: url(./img/HeaderIMG.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -45,7 +45,6 @@ header.p-5.text-center h4 {
 
 #all_bgi {
   padding: 0;
-  background-image: url(https://i.ibb.co/QD10kpm/image.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -60,7 +59,7 @@ section#section_ask {
   overflow-x: hidden;
 }
 section#section_ask .col-md-6.col-sm-12.img {
-  background-image: url(https://image.garena.tw/images/lol/DAWEI/%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD/%E4%B8%96%E7%95%8C%E4%BB%BB%E5%8B%991.jpg);
+  background-image: url(https://truth.bahamut.com.tw/s01/202210/29abf10cec5c52f42cdb49a8723644b8.JPG);
   height: 350px;
   background-size: cover;
   background-position: center;
@@ -82,18 +81,18 @@ section#section_ask .col-md-6.col-sm-12 h2 {
 
 section#section_about .img_wrap1 {
   height: 220px;
-  background-image: url(https://pbs.twimg.com/profile_images/549961026318258177/CEtqG1D__400x400.png);
+  background-image: url(./img/aboutIMG1.png);
   background-size: cover;
   background-position: center;
 }
 section#section_about .img_wrap2 {
   height: 220px;
-  background-image: url(https://i.imgur.com/FPWnKsO.jpg);
+  background-image: url(./img/aboutIMG2.jpeg);
   background-size: cover;
 }
 section#section_about .img_wrap3 {
   height: 220px;
-  background-image: url(https://i.ytimg.com/vi/C-QS9qPBoz8/hqdefault.jpg);
+  background-image: url(./img/aboutIMG3.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -210,7 +209,7 @@ section#section_role #role_list_0, section#section_role #role_list_1, section#se
   margin-left: 3px;
   display: none;
   border-radius: 3px;
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQtudVFH2Cn3GUQXt0HUlMLcg7OF32o4HWQ&usqp=CAU);
+  background-image: url(./img/roleIMG.jpg);
   background-position: center;
   background-size: cover;
   color: #F5F5F5;
